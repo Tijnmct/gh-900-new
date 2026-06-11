@@ -9,3 +9,5 @@ Windows Registry Editor Version 5.00
 "Settings"=hex:28,00,00,00,ff,ff,ff,ff,02,00,00,00,03,00,00,00,3c,00,00,00,\
   28,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
   00,00,00,00,00,00,00,00,00,00,00,00
+
+wat een mooie change, Dit gaat echt over een fantastische onderwerp. En wat een leuke trainer.
